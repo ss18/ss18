@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ss18 (Semen Zhydenko)
 - 👀 I’m interested in open source, chess and reading
-- 💞️ I’m looking to collaborate on improved version of https://github.com/ss18/grep-typos
+- 💞️ I’m looking to collaborate on improved version of [grep-typos](https://github.com/ss18/grep-typos)
 - 📫 How to reach me: semen.zhydenko@gmail.com
 
 <!---
