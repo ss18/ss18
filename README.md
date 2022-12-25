@@ -1,7 +1,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=ss18&show_icons=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ss18&layout=compact)
-
 - 💞️ I’m looking to collaborate on improved version of [grep-typos](https://github.com/ss18/grep-typos)
 - 📫 How to reach me: [email](mailto:semen.zhydenko@gmail.com), [linkedin](https://www.linkedin.com/in/zhydenko/)
 
