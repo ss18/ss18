@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on improved version of [grep-typos](https://github.com/ss18/grep-typos)
 - 📫 How to reach me: [email](mailto:semen.zhydenko@gmail.com), [linkedin](https://www.linkedin.com/in/zhydenko/)
 
-<!---
-ss18/ss18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/ss18/count.svg" />
+</p>
